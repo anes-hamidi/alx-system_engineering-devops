@@ -19,3 +19,6 @@ chmod a+x: add execute permission to all users
 chmod 007: add execute permission to all users except owner and the group owner
 
 chmod 753: add read ,write,execute permission to the owner and read , excute permission to the group owner and write, execut to other
+
+chmod 664: match the file 'olleh'
+
