@@ -27,3 +27,7 @@ chmod -R ugo+X .: add execute permission to all subdirectories of the current di
 mkdir -m 751: create directory with permissions
 
 chgrp: change the group ownership
+
+#Advanced Tasks
+
+chmod -R vincent:staff: change the owner and the group owner
