@@ -22,3 +22,4 @@ chmod 753: add read ,write,execute permission to the owner and read , excute per
 
 chmod 354: match the file 'olleh'
 
+chmod -R ugo+x: adds execute permission to all subdirectories of the current directory
