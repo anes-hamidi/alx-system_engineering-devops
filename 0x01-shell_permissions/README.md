@@ -16,3 +16,5 @@ chmod ug+x: add execute permission to the owner and the group owner
 
 chmod a+x: add execute permission to all users
 
+chmod o+x: add execute permission to all users expect owner and the group owner
+
