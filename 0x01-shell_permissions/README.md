@@ -33,3 +33,4 @@ chgrp: change the group ownership
 chown -R vincent:staff: change the owner and the group owner
 
 chown -R vincent:staff _hello: change the owner and the group owner of file
+chown --from=guillaume betty hello: change owner only if match
