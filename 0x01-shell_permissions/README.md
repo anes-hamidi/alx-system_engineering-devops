@@ -7,3 +7,6 @@ whoami: print the current user
 groups: see all the groups the current user is part of
 
 chown: change the owner of the file
+
+touch: create empty file
+
