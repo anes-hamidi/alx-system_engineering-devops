@@ -10,5 +10,7 @@ chown: change the owner of the file
 
 touch: create empty file
 
-chmod u+x: add execute permission tothe owner
+chmod u+x: add execute permission to the owner
+
+chmod ug+x: add execute permission to the owner and the group owner
 
