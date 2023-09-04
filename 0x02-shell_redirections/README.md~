@@ -1,0 +1,13 @@
+Shell I\O Redirections and filters
+
+1. echo -e "Hello,World\n": add new line to the standard output
+
+2. echo -e "\"(Ôo)'": display a confused smiley
+
+3. cat /etc/passwd: display the content of passwd file
+
+4. cat /etc/passwd /etc/hosts: display the content of two file passwd,hosts
+
+5. tail /etc/passwd: display the last 10 line of file passwd
+
+6.head /etc/passwd: display the first 10 line of file passwd 6. head -n3 iacta | tail -n1: display the third line from iacta file
